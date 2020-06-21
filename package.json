@@ -1,6 +1,6 @@
 {
   "name": "ouvue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "keyword": "vue-cli build comonents with vuepress docs",
   "description": "vue-cli build comonents with vuepress docs",
@@ -14,9 +14,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11",
-    "vue-router": "^3.2.0",
-    "vuex": "^3.4.0"
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
