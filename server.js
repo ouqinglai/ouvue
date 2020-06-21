@@ -7,7 +7,7 @@ app.use((req, res, next) => {
   console.log(22,requestedUrl)
   next()
 })
-app.use(express.static('./docs/.vuepress/dist', { maxAge: '1y', etag: false }))
+app.use(express.static('./docs/dist', { maxAge: '1y', etag: false }))
 
 const host = process.env.HOST || 'localhost'
 const port = process.env.PORT || 2345
