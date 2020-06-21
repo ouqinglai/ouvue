@@ -4,7 +4,7 @@ const path = require('path')
 module.exports = {
   title: 'my-blog',  // 设置网站标题
   dest: './docs/dist',   // 设置输出目录
-  base: '/',// 设置站点根路径
+  base: './',// 设置站点根路径
   configureWebpack: {
     resolve: {
       alias: {
