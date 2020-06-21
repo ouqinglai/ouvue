@@ -1,0 +1,9 @@
+# 忽略目录
+node_modules/
+packages/
+public/
+docs/
+src/
+
+vue.config.js
+babel.config.js

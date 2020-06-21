@@ -1,0 +1,6 @@
+.red {
+  color: red;
+  .ty {
+    font-size: 10px;
+  }
+}
