@@ -1,18 +1,18 @@
-# hello-world
+# 文档地址：https://ouqinglai.github.io/ouvue/docs/dist/
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
 ### Compiles and minifies for production
 ```
-npm run build
+npm run lib
+```
+
+### Build Docs
+```
+npm run docs:build
 ```
 
 ### Customize configuration
